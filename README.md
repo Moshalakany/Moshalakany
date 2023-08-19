@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mohamed Abd ELaty ELshalakany</h1>
 <div>
 <h3 align="left">  A passionate software engineer from Egypt</h3>
-<img src='https://drive.google.com/file/d/1V0YGVUeXEEKwyIzBCBvNG582m_6ZCBZS/view?usp=sharing'  width="300" height="400" alt="My Image" style="float: right;" />
+<img src="https://drive.google.com/file/d/1V0YGVUeXEEKwyIzBCBvNG582m_6ZCBZS/view?usp=sharing"  width="300" height="400" alt="My Image" style="float: right;" />
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moshalakany&label=Profile%20views&color=0e75b6&style=flat" alt="moshalakany" /> </p>
 <p align="left"> <a href="https://twitter.com/elshalakany2003" target="blank"><img src="https://img.shields.io/twitter/follow/elshalakany2003?logo=twitter&style=for-the-badge" alt="elshalakany2003" /></a> </p>
