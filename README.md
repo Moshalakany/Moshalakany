@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mohamed Abd ELaty ELshalakany</h1>
-<h3 align="center">A passionate software engineer from Egypt</h3>
-
+<div>
+<h3 align="left">  A passionate software engineer from Egypt</h3>
+<img src="myimage.jpg"  width="300" height="400" alt="My Image" style="float: right;" />
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moshalakany&label=Profile%20views&color=0e75b6&style=flat" alt="moshalakany" /> </p>
-
 <p align="left"> <a href="https://twitter.com/elshalakany2003" target="blank"><img src="https://img.shields.io/twitter/follow/elshalakany2003?logo=twitter&style=for-the-badge" alt="elshalakany2003" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/elshalakany2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elshalakany2003" height="30" width="40" /></a>
