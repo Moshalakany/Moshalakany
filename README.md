@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ahmed Mohamed Abd ELaty ELshalakany</h1>
-<h3 align="center">A student in Faculty of Computer and Information Scienc,e Ain-Shams university junior software engineer from Egypt</h3>
+<h1 align="center">Ahmed Mohamed Abd ELatyELshalakany</h1>
+<h3 align="center">A student in Faculty of Computer and Information Science,e Ain-Shams University junior software engineer from Egypt</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moshalakany&label=Profile%20views&color=0e75b6&style=flat" alt="moshalakany" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
