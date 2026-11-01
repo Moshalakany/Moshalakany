@@ -1,4 +1,4 @@
-<h1 align="center">Ahmed Mohamed Abd ELatyELshalakany</h1>
+<h1 align="center">Ahmed Mohamed Abd Elaty EL-shalakany</h1>
 <h3 align="center">A Mid-level software engineer from Egypt</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moshalakany&label=Profile%20views&color=0e75b6&style=flat" alt="moshalakany" /> </p>
 <h3 align="left">Connect with me:</h3>
